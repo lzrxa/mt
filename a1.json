@@ -9,6 +9,14 @@
 ],
 "wallpaper":"https://liu.chuqiuyu.workers.dev",
 "sites":[
+  {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "ext": "1"
+    },
 {"key": "timizy","name": "甜蜜资源 ","type": 1,"api": "https://timizy10.cc/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "奥斯卡资源网","name": "奥斯卡资源网","type": 1,"api": "https://aosikazy.com/api.php/provide/vod/"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json"}
