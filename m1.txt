@@ -117,7 +117,6 @@
         "体育"
       ]
     },
-
      {
       "key": "49zy",
       "name": "🗼┃49Z┃2K",
@@ -163,8 +162,7 @@
         "海外剧"
       ]
     },
-   
-    {
+       {
       "key": "蚂蚁",
       "name": "🐜┃蚂蚁┃4K",
       "type": 3,
@@ -232,8 +230,7 @@
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/h/%e6%9e%81%e5%bd%b1%e7%bd%91.json",
       "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
     },
-     
-    {
+         {
       "key": "yc",
       "name": "🦊┃磁力┃4KHDR",
       "type": 3,
