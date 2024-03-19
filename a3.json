@@ -1,4 +1,4 @@
-{
+p{
   "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;99c040de9b1ebd3c51a256cac6c2f78d",
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
   "sites": [
@@ -85,7 +85,6 @@
   "timeout":60
 },
   {"key":"lf_js_p2p","name":"磁力","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./lib/lf_p2p2_min.js","ext":"18+","timeout":60},
-  {"key":"csp_Netflav","name":"Netflav","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
     {
       "key": "apilj.com",
       "name": "成人01",
