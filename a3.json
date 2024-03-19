@@ -84,7 +84,17 @@
   "style":{"type":"rect","ratio":1.77},
   "timeout":60
 },
-  {"key":"lf_js_p2p","name":"磁力","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./lib/lf_p2p2_min.js","ext":"18+","timeout":60},
+  {"key":"lf_js_p2p",
+    "name":"磁力",
+    "type":3,
+    "api":"./lib/lf_p2p2_min.js",
+    "searchable":1,
+    "changeable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"18+",
+    "timeout":60
+   },
     {
       "key": "apilj.com",
       "name": "成人01",
