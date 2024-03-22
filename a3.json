@@ -1,5 +1,5 @@
 {
-  "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;99c040de9b1ebd3c51a256cac6c2f78d",
+  "spider":"./jar/pg.jar;md5;12e1170f54c86565b5de7a828fcec770",
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
   "sites": [
   {"key":"玉兔资源","name":"玉兔资源","type":0,"api":"https://apiyutu.com/api.php/provide/vod/at/xml/","searchable":1,"style":{"type":"rect","ratio":1.333},"quickSearch":1},
