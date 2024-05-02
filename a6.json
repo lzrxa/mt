@@ -17,6 +17,22 @@
     {"key":"色貓","name":"色貓🔪","type":0,"api":"https://api.maozyapi.com/inc/api.php"},
     {"key":"蛋蛋視頻","name":"蛋蛋視頻🔪","type":1,"api":"https://156.249.29.8/inc/apijson_vod.php","searchable":0,"quickSearch":0},
     {
+      "key": "Supjav",
+      "name": "❤Supjav",
+      "type": 3,
+      "api": "csp_Supjav",
+      "searchable": 1,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/lllyin/assets/master/custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"
+     },
+    {
+      "key": "Hanime",
+      "name": "❤Hanime",
+      "type": 3,
+      "api": "csp_Hanime",
+      "searchable": 1,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/lllyin/assets/master/custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"
+    },
+    {
       "key": "泥巴",
       "name": "泥巴",
       "type": 3,
