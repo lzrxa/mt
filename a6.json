@@ -3,7 +3,6 @@
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
   "sites": [
   {"key":"玉兔资源","name":"玉兔资源","type":0,"api":"https://apiyutu.com/api.php/provide/vod/at/xml/","searchable":1,"style":{"type":"rect","ratio":1.333},"quickSearch":1},
-{"key": "timizy","name": "甜蜜资源 ","type": 1,"api": "https://timizy10.cc/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "奥斯卡资源网","name": "奥斯卡资源网","type": 1,"api": "https://aosikazy.com/api.php/provide/vod/"},
     {"key":"91麻豆","name":"91麻豆🔪","type":1,"api":"https://91md.me/api.php/provide/vod/"},
     {"key":"辣椒資源","name":"辣椒資源🔪","type":1,"api":"http://apilj.com/api.php/provide/vod/at/json/"},
